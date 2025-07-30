@@ -43,7 +43,7 @@ Despite its reduced complexity, VCap‑Lite achieves **competitive results** on 
 
 ```bash
 conda env create -f environment.yml
-conda activate vcap-lite
+conda activate video_captioning
 ````
 
 ---
