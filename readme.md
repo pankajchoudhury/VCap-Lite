@@ -66,7 +66,7 @@ Extract `DATA.tar.xz`. It should contain the following structure:
 │   ├── vocab/
 │   └── best_model_msrvtt_gru_mobilenetv2.pt
 ├── msvd
-│   ├── cnn
+│   ├── features
 │   │   ├── test/
 │   │   ├── train/
 │   │   └── val/
